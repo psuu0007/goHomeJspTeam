@@ -18,9 +18,9 @@ public class ForExpandTest {
 		
 		String[] strArr = new String[3];
 		
-		strArr[0] = "글자";
-		strArr[1] = "222";
-		strArr[2] = "글자 222";
+		strArr[0] = "박대승1";
+		strArr[1] = "박대승2";
+		strArr[2] = "박대승3";
 		
 		for (String str : strArr) {
 			System.out.println(str);
