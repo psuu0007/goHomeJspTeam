@@ -13,7 +13,7 @@ public class ForExpandTest {
 		}
 				
 		for (Integer num : numList) {
-			System.out.println(num);
+			System.out.println("박대승"+num);
 		}
 		
 		String[] strArr = new String[3];
