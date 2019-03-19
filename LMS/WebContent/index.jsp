@@ -7,6 +7,6 @@
 <title>teamJsp</title>
 </head>
 <body>
-	<h1>짜잔!</h1>
+	<h1>커밋</h1>
 </body>
 </html>
