@@ -11,7 +11,7 @@ public class ForExpandTest {
 		for (int i = 0; i < 5; i++) {
 			numList.add(i+1);
 		}
-				
+				 
 		for (Integer num : numList) {
 			System.out.println("윤승환" + num);
 		}
