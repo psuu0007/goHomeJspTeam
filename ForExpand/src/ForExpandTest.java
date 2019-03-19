@@ -21,6 +21,10 @@ public class ForExpandTest {
 		strArr[0] = "글자";
 		strArr[1] = "222";
 		strArr[2] = "글자 222";
+		
+		strArr[0] = "윤승환";
+		strArr[1] = "뭐지";
+		strArr[2] = "이것도바꾸나?";
 	 
 		for (String str : strArr) {
 			System.out.println(str);
