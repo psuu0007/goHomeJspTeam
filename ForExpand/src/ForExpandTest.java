@@ -24,7 +24,7 @@ public class ForExpandTest {
 		
 		strArr[0] = "윤승환";
 		strArr[1] = "뭐지";
-		strArr[2] = "이것도바꾸나?";
+		strArr[2] = "이것도바꾸나?"; 
 	 
 		for (String str : strArr) {
 			System.out.println(str);
