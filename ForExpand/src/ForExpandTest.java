@@ -16,11 +16,8 @@ public class ForExpandTest {
 			System.out.println("윤승환" + num);
 		}
 		 
-		String[] strArr = new String[3];
 		
-		strArr[0] = "글자";
-		strArr[1] = "222";
-		strArr[2] = "글자 222";
+		String[] strArr = new String[3];
 		
 		strArr[0] = "윤승환";
 		strArr[1] = "뭐지"; 
@@ -29,7 +26,6 @@ public class ForExpandTest {
 		for (String str : strArr) {
 			System.out.println(str);
 		}
-		
 		
 	}
 
