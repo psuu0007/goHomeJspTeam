@@ -13,14 +13,14 @@ public class ForExpandTest {
 		}
 				
 		for (Integer num : numList) {
-			System.out.println(num);
+			System.out.println("박강인"+num);
 		}
 		
 		String[] strArr = new String[3];
 		
-		strArr[0] = "글자";
-		strArr[1] = "222";
-		strArr[2] = "글자 222";
+		strArr[0] = "우효";
+		strArr[1] = "초럭키";
+		strArr[2] = "Daze";
 		
 		for (String str : strArr) {
 			System.out.println(str);
