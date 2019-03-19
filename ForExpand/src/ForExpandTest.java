@@ -15,7 +15,7 @@ public class ForExpandTest {
 		for (Integer num : numList) {
 			System.out.println("윤승환" + num);
 		}
-		
+		 
 		String[] strArr = new String[3];
 		
 		strArr[0] = "글자";
